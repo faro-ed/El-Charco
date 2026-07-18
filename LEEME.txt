@@ -1,0 +1,103 @@
+==========================================================
+  CHARCO · SALÓN DE EVENTOS CON PISCINA — Sitio web (propuesta)
+==========================================================
+
+Propuesta de sitio web profesional, 100% estática (HTML + CSS +
+JavaScript). Sin programas, sin servidores, sin complicaciones.
+Funciona en Hostinger, GitHub Pages, Netlify o cualquier hosting.
+
+----------------------------------------------------------
+  CÓMO VER EL SITIO
+----------------------------------------------------------
+• Doble clic en "index.html"  →  se abre en tu navegador.
+• Para verlo tal cual quedará en internet (con todos los
+  detalles), pide que te lo abran con el servidor local
+  (http://localhost:3039).
+
+----------------------------------------------------------
+  CÓMO SUBIRLO A INTERNET (resumen)
+----------------------------------------------------------
+1. Sube TODA la carpeta "charco" a tu hosting (por FTP o el
+   administrador de archivos de Hostinger), dentro de public_html.
+2. Asegúrate de subir también el archivo ".htaccess"
+   (a veces está oculto).
+3. Listo: el sitio queda en línea.
+
+----------------------------------------------------------
+  TUS FOTOS REALES
+----------------------------------------------------------
+Mira el archivo "LEEME-FOTOS.txt". Solo reemplazas 3 imágenes
+con el mismo nombre y el sitio se vuelve 100% tuyo.
+
+----------------------------------------------------------
+  DATOS USADOS EN EL SITIO  (revísalos, por favor)
+----------------------------------------------------------
+• Nombre:      Charco Salón de Eventos (con piscina)
+• Dirección:   Calle 21 de Marzo, Col. Colosio, C.P. 82160,
+               Mazatlán, Sinaloa.            [CONFIRMAR exacta]
+• WhatsApp:    669 162 0951   (wa.me/526691620951)
+• Teléfono:    (669 155 6840 se quitó temporalmente a pedido del
+               dueño; se reincorporará más adelante — avísame y
+               lo vuelvo a poner en contacto y pie de página)
+• Horario:     UN SOLO EVENTO POR DÍA; el cliente elige la hora.
+               Disponible toda la semana.
+• Duración:    Eventos de 5 horas (con opción a horas extra).
+• Apartado:    La fecha se aparta con $1,000.
+• Cotización:  Se calcula según la FECHA y el N.º de personas.
+• Calificación: 4.4★ en Google (actualizada por el propietario)
+
+INCLUYE (según el propietario, ya integrado en la sección "Todo incluido"):
+  Cocina: refrigerador, parrilla a gas, hielera, barra.
+  Convivencia: mesas, sillas, manteles, bocina, 2 abanicos de pedestal.
+  Baños de damas y caballeros. Piscina de 3 niveles con tobogán.
+  Área de piñata. Brincolín opcional (niños pequeños).
+
+REDES SOCIALES
+• Facebook:  https://www.facebook.com/charcomazatlan/?locale=es_LA  (OK)
+• Instagram: enlace a la "ubicación" El Charco en Instagram.
+             No es un perfil propio. Si tienes una cuenta de
+             Instagram de Charco, mándame el usuario y lo cambio.
+
+DATOS A AJUSTAR / PLACEHOLDERS
+• Las estadísticas ya son datos reales (4.4★, 5 horas por
+  evento, 8 tipos de evento, un evento por día). Se quitó el
+  "150 invitados" de ejemplo.
+• Los testimonios ya son RESEÑAS REALES de Google (Maz Cocina
+  Banquetes, Ángel Mauricio Aguilar B., José Manuel Zamudio S.).
+• Profundidad de la piscina: YA integrada (50 cm → 1 m → 1.50 m).
+• Dirección y datos: confirma la dirección exacta si hace falta.
+• Nota SEO: en la descripción para Google se menciona una vez
+  "piscina (alberca)" porque en México mucha gente busca
+  "salón con alberca". En la página visible solo se usa
+  "piscina". Si el dueño lo prefiere, se quita.
+
+----------------------------------------------------------
+  QUÉ INCLUYE LA WEB
+----------------------------------------------------------
+- Portada con foto a pantalla completa y llamada a la acción.
+- Sección destacada de la PISCINA (el gran diferenciador).
+- "Por qué Charco" (área techada, piscina con tobogán, cocina,
+  ambiente familiar, espacio amplio, ubicación).
+- Tipos de evento (cumpleaños, piscinadas, baby shower, bautizos,
+  reuniones, XV/eventos sociales).
+- Galería con filtros y visor de imágenes.
+- Testimonios, preguntas frecuentes.
+- Ubicación con mapa de Google (carga al hacer clic) y formulario
+  de contacto que abre WhatsApp con el mensaje ya escrito.
+- Botón flotante de WhatsApp e íconos de redes sociales.
+
+----------------------------------------------------------
+  ESTRUCTURA DE ARCHIVOS
+----------------------------------------------------------
+charco/
+  index.html        ← la página
+  styles.css        ← diseño y colores
+  script.js         ← interacciones
+  .htaccess         ← rendimiento/caché (subir también)
+  img/              ← fotos de la galería y tarjetas
+  fotos-reales/     ← TUS 3 fotos principales (reemplazar)
+  LEEME.txt         ← este archivo
+  LEEME-FOTOS.txt   ← guía para cambiar fotos
+
+Diseño: propuesta de demostración. Cualquier ajuste de textos,
+colores, fotos o secciones se puede hacer sin problema.

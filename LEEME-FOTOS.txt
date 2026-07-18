@@ -1,0 +1,70 @@
+==========================================================
+  CHARCO · FOTOS DEL SITIO — estado actual
+==========================================================
+
+¡Buenas noticias! El sitio ya usa ÚNICAMENTE FOTOS REALES
+de Charco (14 fotos). Ya no hay fotos de banco de imágenes.
+
+----------------------------------------------------------
+  DÓNDE ESTÁ CADA FOTO
+----------------------------------------------------------
+charco / fotos-reales   (las 3 principales)
+  hero.jpg     → Portada (patio con castillo inflable y tobogán)
+  patio.jpg    → Bienvenida (área techada con escenario)
+  piscina.jpg  → Sección "Nuestra piscina" (piscina con tobogán)
+
+charco / img            (galería y tarjetas de eventos)
+  piscina-espejo.jpg     → piscina en calma con logo
+  tobogan-familias.jpg   → familias usando el tobogán
+  piscinada.jpg          → piscina llena de gente
+  piscina-atardecer.jpg  → piscina al atardecer
+  piscina-vestidores.jpg → vestidores y regaderas
+  escenario-globos.jpg   → escenario con arco de globos
+  montaje-fiesta.jpg     → mesas rojas/naranjas montadas
+  fiesta-tematica.jpg    → fiesta temática infantil
+  terraza-piscina.jpg    → convivencia junto a la piscina
+  patio-piscina.jpg      → mesas techadas con piscina al fondo
+  patio-mesas.jpg        → patio con mesas de blanco
+
+  brincolin.jpg  ← FALTA: guarda aquí la foto del brincolín
+    (charco/img/brincolin.jpg). Mientras no exista, la galería
+    simplemente muestra una foto menos (no se ve rota). En cuanto
+    la pongas, aparece sola en la galería como "Brincolín (opcional)".
+
+  stock-babyshower.jpg / stock-bautizo.jpg
+  → Estas 2 SÍ son de banco de imágenes (fotos sencillas de
+    un pastel de pañales y de cupcakes con crucecitas). Se usan
+    solo en las tarjetas "Baby showers" y "Bautizos" porque aún
+    no hay fotos reales de esos eventos en Charco. En cuanto
+    tengas fotos reales de un baby shower o un bautizo hecho en
+    el salón, mándalas y reemplazo estas dos.
+
+  water-caustics.jpg / water-ripple.jpg
+  → NO son fotos del local: son texturas decorativas de agua
+    (los reflejos de la sección azul y el fondo del mapa).
+    No borrar.
+
+Los archivos "2" en fotos-reales (hero2, alberca2, patio2)
+son las fotos anteriores de muestra; ya no se usan en la
+página. Se pueden borrar cuando quieras.
+
+----------------------------------------------------------
+  ¿CÓMO CAMBIAR O AGREGAR FOTOS EN EL FUTURO?
+----------------------------------------------------------
+OPCIÓN FÁCIL: copia las fotos nuevas (cualquier nombre) en
+charco/fotos-reales o charco/img y dile a Claude:
+   "Puse fotos nuevas, acomódalas"
+Claude las mira una por una y las coloca donde mejor queden.
+
+OPCIÓN MANUAL: reemplaza un archivo existente usando
+exactamente el mismo nombre (p. ej. tu nueva foto de la
+piscina renómbrala "piscina.jpg" y pégala en fotos-reales).
+
+Consejo: fotos horizontales, con buena luz, ~1600 px de ancho.
+
+----------------------------------------------------------
+  TU LOGO
+----------------------------------------------------------
+El logotipo del encabezado está RECREADO (gota + letras).
+Si quieres el logo original PNG con fondo transparente,
+mándalo y se integra tal cual.
